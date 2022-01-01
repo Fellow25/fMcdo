@@ -29,4 +29,8 @@ INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES
 ('ptwrap', 'Galette', -1, 0, 1),
 ('potatoescru', 'Potatoes Surgélé', -1, 0, 1),
 ('fritecru', 'Frites Surgélé', -1, 0, 1),
+('vingtnuggets', 'Boite de 20 Nuggets', -1, 0, 1),
+('ptitwrap', 'Petit wrap', -1, 0, 1),
+('potatoes', 'Potatoes', -1, 0, 1),
+('frites', 'Frites', -1, 0, 1),
 ('ketchup', 'Sachet de ketchup', -1, 0, 1);
